@@ -1,4 +1,4 @@
-# Olá! Eu sou o Pedro Dias Soares
+# Olá! Eu sou o Pedro
 
 ### Sobre mim:
 - Meu nome é Pedro Dias Soares, sou recém-formado na escola. Estou iniciando o curso de Ciências de Dados na Puc Minas. Busco adquirir novas experiências e fazer inúmeras networking, principalmente na área computacional, especificamente ciência de dados, inteligência artificial e segurança de redes. Tenho me especializado em adquirir novos conhecimentos que abrangem o vasto campo virtual, buscando sempre adquirir resultados que agreguem valor aos projetos e equipes com os quais atuo.
