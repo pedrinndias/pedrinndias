@@ -4,7 +4,7 @@
 
 - 🎓Estou graduando o curso de Ciências de Dados & Inteligência Artificial na Puc Minas.
   
-- 📈Busco adquirir novas experiências e fazer inúmeras networking, principalmente na área computacional, especificamente ciência de dados, inteligência artificial e segurança de redes.
+- 📈Busco adquirir novas experiências e fazer inúmeros networking, principalmente na área computacional, especificamente ciência de dados, inteligência artificial e segurança de redes.
   
 - 🖥️Tenho me especializado em adquirir novos conhecimentos que abrangem o vasto campo virtual, buscando sempre adquirir resultados que agreguem valor aos projetos e equipes com os quais atuo.
 
