@@ -1,9 +1,8 @@
-# Olá! Eu sou o Pedro
+# Olá! Eu sou o Pedro Dias
 
 ### 📌Sobre mim:
-- 🧑‍🎓Meu nome é Pedro Dias Soares, sou recém-formado na escola.
 
-- 🎓Estou iniciando o curso de Ciências de Dados na Puc Minas.
+- 🎓Estou graduando o curso de Ciências de Dados & Inteligência Artificial na Puc Minas.
   
 - 📈Busco adquirir novas experiências e fazer inúmeras networking, principalmente na área computacional, especificamente ciência de dados, inteligência artificial e segurança de redes.
   
