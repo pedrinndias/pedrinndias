@@ -7,13 +7,13 @@
 
 <h3 align="center"> 📌About me: </h3> 
 
-- 🎓Estou graduando o curso de Ciências de Dados & Inteligência Artificial na Puc Minas.
+- 🎓 Graduating in Data Science & Artificial Intelligence at Puc Minas.
   
-- 📈Busco adquirir novas experiências e fazer inúmeros networking, principalmente na área computacional, especificamente ciência de dados, inteligência artificial e segurança de redes.
+- 📈 I seek to acquire new experiences and do countless networking, mainly in the computing area, specifically data science, artificial intelligence and network security.
   
-- 🖥️Tenho me especializado em adquirir novos conhecimentos que abrangem o vasto campo virtual, buscando sempre adquirir resultados que agreguem valor aos projetos e equipes com os quais atuo.
+- 🖥️ I have specialized in acquiring new knowledge that covers the vast virtual field, always seeking to acquire results that add value to the projects and teams with which I work.
 
-- 📔Sou uma pessoa que gosta de aprender e desvendar o novo e acredito no poder da colaboração para atingir resultados excepcionais.
+- 📔 I am a person who enjoys learning and discovering new things and I believe in the power of collaboration to achieve exceptional results.
 
 </h3> 
 
@@ -24,10 +24,7 @@
 
 ## 
 
-<div>
-<img height="30em" width= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img height="30em" width= "40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+
 
 ##
 
