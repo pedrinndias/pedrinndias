@@ -24,7 +24,13 @@
 
 ## 
 
-
+<h2 align="center"> ⚒️Tech Tool's⚒️ </h2>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,md,notion,obsidian,ps,python,c,cpp" />
+  </a>
+</p>
 
 ##
 
