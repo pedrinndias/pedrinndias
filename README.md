@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedrinndias.pedrinndias" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7931D&center=true&width=435&lines=I'm+Pedro+Soares" alt="Typing SVG" /></a>
+</h1>
 
-# Olá! Eu sou o Pedro Dias
+
 
 ### 📌Sobre mim:
 
