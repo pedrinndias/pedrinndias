@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedrinndias.pedrinndias" />
+
 # Olá! Eu sou o Pedro Dias
 
 ### 📌Sobre mim:
