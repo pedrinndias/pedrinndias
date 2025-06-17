@@ -5,7 +5,7 @@
 
 
 
-### 📌Sobre mim:
+<h3 align="center"> 📌About me: </h3> 
 
 - 🎓Estou graduando o curso de Ciências de Dados & Inteligência Artificial na Puc Minas.
   
@@ -15,7 +15,7 @@
 
 - 📔Sou uma pessoa que gosta de aprender e desvendar o novo e acredito no poder da colaboração para atingir resultados excepcionais.
 
-##
+</h3> 
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrinndias&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
