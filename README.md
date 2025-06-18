@@ -34,17 +34,19 @@
 <p align="center">
    	<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>  	<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </p>
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/pedro-soares-75b515300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:pedro3soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://lattes.cnpq.br/8275437573417856"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=todoist&logoColor=white"></a>
-</div>
 
 ##
 
-<div>
+<h2 align="center"> 🌐Social🌐 </h2>
+<h2 align="center">
+  <div>
+    <a href="https://www.linkedin.com/in/pedro-soares-75b515300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:pedro3soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://lattes.cnpq.br/8275437573417856"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank)"></a>
+  </div>
+<h2>
+
+##
   
 </div>
 
